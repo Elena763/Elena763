@@ -4,7 +4,7 @@
  <img width="600" src="images/girl.gif" alt="girl"/>
 </p>
 ---
-### 🤝 Contacts:
+# 🤝 Contacts:
 ---
  <div id="badges">
     <a href="www.linkedin.com/in/elena-vasileva-9a660b281" target="_blank">
