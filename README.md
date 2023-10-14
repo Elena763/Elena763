@@ -3,7 +3,7 @@
 <p align="center">
  <img width="600" src="images/girl.gif" alt="girl"/>
 </p>
----
+
 # 🤝 Contacts:
 ---
  <div id="badges">
