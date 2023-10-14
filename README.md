@@ -2,6 +2,7 @@
 <p align="center">
  <img width="400" src="images/girl.gif" alt="girl"/>
 </p>
+
 ---
 
 ### 🤝 Contacts:
@@ -13,6 +14,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
+  
 ---
 
 ### 💻 Technologies:
