@@ -7,7 +7,7 @@
 
 ### 🤝 Contacts:
  <div id="badges">
-    <a href="www.linkedin.com/in/elena-vasileva-9a660b281">
+    <a href=" http://www.linkedin.com/in/elena-vasileva-9a660b281">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/elena_evgenevna763">
